@@ -1,0 +1,29 @@
+#Written by Rob Haining
+#	Wake Forest University
+# 	Spring 2004
+#
+#MySQL script for creating a table called "archive" within db "tcpdump"
+#
+#use: mysql < create_mysql_table
+#[note: must have create/grant access]
+#
+
+#'tcpdump' is name of database
+USE tcpdump;
+#'archive' is name of table
+CREATE TABLE archive(
+	date DATE,
+	time TIME,
+	minutes INT,
+	protocol TEXT,
+	src_ip TEXT,
+	src_port INT,
+	dst_ip TEXT,
+	dst_port INT);
+
+#where username/pw is rob/rainermaria
+GRANT SELECT,INSERT,DELETE
+	ON tcpdump.archive
+	TO rob@localhost
+	IDENTIFIED BY 'rainermaria';
+QUIT
