@@ -114,7 +114,7 @@ and (max-width : 500px) {
   color: rgb(100,100,100);
 }
 #leftbar a:hover{
-  font-size: 1.3em;
+  font-size: 1.1em;
 }
 #content #leftbar .leftbarline{
   text-align: right;
