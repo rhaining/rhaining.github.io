@@ -1,0 +1,30 @@
+{
+  "awards-epi": [
+    {
+      "title": "MIN Finalist for Best Tablet App",
+      "dates": "2011"
+    },
+    {
+      "title": "Webby Nominee",
+      "subtitle": "Lifestyle Tablet category",
+      "dates": "2011"
+    },
+    {
+      "title": "Mobile Strategy Award Finalist",
+      "subtitle": "MIN",
+      "dates": "2010"
+    }
+  ],
+  "awards-mag": [
+    {
+      "title": "National Magazine Finalist for Mobile Media",
+      "dates": "2010",
+      "subtitle": "<a href=\"https://asme.magazine.org/asme/national-magazine-awards/winners-finalists\">American Society of Magazine Editors</a>"
+    },
+    {
+      "title": "Webby Nominee",
+      "subtitle": "Mobile Entertainment",
+      "dates": "2010"
+    }
+  ]
+}

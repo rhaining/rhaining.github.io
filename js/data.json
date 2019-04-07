@@ -1,0 +1,566 @@
+{
+  "name": "robert tolar haining",
+  "subheader": "people manager &amp; software&nbsp;engineer",
+  "location": "brooklyn, new york",
+  "blurb": "<p><b>Who am I?</b> Over a 14 year long career (and going!), I have built software, led projects, and managed people for a wide range of companies in the media, commerce, & financial industries in Atlanta and New York City. From startups to Fortune 500 companies, I have been responsible for developing products from conception to production, as well as working within larger teams. While a classically trained, full-stack engineer, my focus over the past decade has been iOS development. In recent years, I have developed a love for managing people and building teams.</p>",
+  "departments": [
+    {
+      "title": "work",
+      "sections": [
+        {
+          "dates": "2014 &ndash; present",
+          "subsections": [
+            {
+              "title": "PayPal",
+              "logo": "paypal.png",
+              "subtitle": "worldwide online payments system",
+              "location": "New York, New York",
+              "dates": "2015 &ndash; present",
+              "descriptions": [
+                " Acquired Modest in 2015, which was rebranded as PayPal Commerce, where I worked for over a year, before being transferred to Venmo."
+              ],
+              "subsections": [
+                {
+                  "title": "Venmo",
+                  "logo": "venmo.png",
+                  "subtitle": "mobile payment service",
+                  "location": "",
+                  "dates": "2016 &ndash; present",
+                  "descriptions": [
+                    "<b>iOS Engineer</b> for a little over a year before becoming a <b>People Manager</b>, where I have been managing iOS engineers on the App Experience team."
+                  ]
+                },
+                {
+                  "title": "Braintree",
+                  "logo": "braintree.png",
+                  "subtitle": "payment service provider",
+                  "location": "",
+                  "dates": "2015 &ndash; 2016",
+                  "descriptions": [
+                    "<b>iOS Engineer</b> on the PayPal Commerce team, which continued work on the Modest product."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Modest",
+              "logo": "modest.png",
+              "subtitle": "retail solutions for mobile devices / startup",
+              "location": "Brooklyn, New York",
+              "dates": "2014 &ndash; 2015",
+              "descriptions": [
+                "<b>iOS Engineer</b> on a small team where I built an SDK that enabled retailers to launch and support mobile commerce apps."
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2011 &ndash; 2014",
+          "subsections": [
+            {
+              "title": "Betaworks",
+              "logo": "betaworks.png",
+              "subtitle": "startup studio",
+              "location": "New York, New York",
+              "dates": "",
+              "descriptions": [
+                ""
+              ],
+              "subsections": [
+                {
+                  "title": "Digg",
+                  "logo": "digg.png",
+                  "subtitle": "online news aggregator / startup",
+                  "location": "",
+                  "dates": "",
+                  "descriptions": [
+                    "<b>iOS engineer</b> on the team that acquired the digg brand &amp; launched an editorially based news curation service and an RSS reader. I invented a feature that detects ambient light to determine whether to switch to a 'dark mode'."
+                  ]
+                },
+                {
+                  "title": "News.me",
+                  "logo": "newsme.png",
+                  "subtitle": "personalized mobile news aggregator / startup",
+                  "location": "",
+                  "dates": "",
+                  "descriptions": [
+                    "<b>iOS engineer</b> on a small team that built a personalized news aggregator that pulls articles your friends post on their Twitter & Facebook feeds. I invented a novel feature called Paperboy, which uses geofencing to trigger news updates."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2007 &ndash; 2011",
+          "subsections": [
+            {
+              "title": "Cond&eacute; Nast Publications",
+              "logo": "condenast.png",
+              "subtitle": "magazine and mass media company",
+              "location": "New York, New York",
+              "dates": "",
+              "descriptions": [
+                "<b>Tech lead</b> for the Interactive Product Group. We built <b>Idea Flight</b>, which enabled users to deliver presentations, documents, & designs across multiple iPads in a room.",
+                "<b>Mobile tech lead</b> for several award-winning iOS apps, including:\n      <ul>\n        <li><b>Epicurious Recipes &amp; Shopping List</b>: utility for finding great recipes on the go and cooking them in the kitchen.</li>\n        <li><b>Cond&eacute; Nast Magazine Platform</b> launched with GQ, Vanity Fair, and Glamour.</li>\n        <li><b>Wired Product Reviews</b>: research reviews on the go.</li>\n<li><b>Postcard by Concierge.com</b>: apply filters to photos, and share them with friends.</li>      </ul>",
+                "<b>Full-stack engineer</b> on a small Special Projects team that built Facebook and MySpace apps."
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2004 &ndash; 2007",
+          "subsections": [
+            {
+              "title": "Cox Newspapers",
+              "logo": "coxnews.png",
+              "subtitle": "newspaper company",
+              "location": "Atlanta, Georgia",
+              "dates": "",
+              "descriptions": [
+                "<b>Full-stack engineer</b> on a small Special Projects team, where I built many projects, including:\n      <ul>\n        <li><b>iEat</b> (sole engineer / creator): Brought each newspaper&apos;s restaurants&apos; database into the iPod Classic.</li>\n        <li><b>Bracket Contest Tool</b> (sole engineer): Enabled newspapers to create NCAA bracket-style tournaments for their readers.</li>\n        <li><b>Directory Tool</b> (sole engineer): Enabled newspapers to create online directories for their community churches, local businesses, etc.</li>\n        <li><b>MediaHub</b> (tech lead / creator): Hyperlocal photo-sharing website with a neighborhood-based approach.</li>\n      </ul>"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "skills",
+      "sections": [
+        {
+          "subsections": [
+            {
+              "descriptions": [
+                "    <ul>\n      <li>People Management, Agile Development, Team Leader</li>\n      <li>Swift, Objective-C, Cocoa Touch, PHP, MySQL, HTML, CSS, Javascript, Python, Mongo, Java/J2EE, Oracle, macOS screensavers</li>\n      <li>Cross-departmental relationships</li>\n      <li>Product ideation</li>\n    </ul>\n"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "education",
+      "sections": [
+        {
+          "dates": "2005 &ndash; present",
+          "subsections": [
+            {
+              "title": "Continuing education",
+              "subtitle": "",
+              "location": "",
+              "dates": "",
+              "subsections": [
+                {
+                  "title": "Intro to Python",
+                  "subtitle": "taught by Raymond Hettinger <i>(Python Core Developer)</i>",
+                  "location": "New York, New York",
+                  "dates": "2017",
+                  "descriptions": [
+                    
+                  ]
+                },
+                {
+                  "title": "Introduction to Data Science in Python",
+                  "subtitle": "taught by Christopher Brooks <i>(University of Michigan)</i>",
+                  "location": "New York, New York",
+                  "dates": "2016",
+                  "descriptions": [
+                    "<a href=\"https://www.coursera.org/account/accomplishments/verify/QWBUEZXPNVC9\">Course Certificate</a>"
+                  ]
+                },
+                {
+                  "title": "Introduction to Java",
+                  "subtitle": "taught by Sun Microsystems",
+                  "location": "Atlanta, Georgia",
+                  "dates": "2005",
+                  "descriptions": [
+                    
+                  ]
+                }
+              ],
+              "descriptions": [
+                
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2000 &ndash; 2004",
+          "subsections": [
+            {
+              "title": "Wake Forest University",
+              "logo": "wfu.png",
+              "subtitle": "",
+              "location": "Winston-Salem, North Carolina",
+              "dates": "",
+              "descriptions": [
+                "<div>B.S. in Computer Science</div>\n      <div>Minor in Mathematics</div>\n      <div>Cum Laude</div>\n      <div>DJ & General Manager at Wake Radio</div>"
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "1994 &ndash; 2000",
+          "subsections": [
+            {
+              "title": "Pace Academy",
+              "logo": "pace.png",
+              "logo_style": "height: 60pt",
+              "subtitle": "K-12 College Prep School",
+              "location": "Atlanta, Georgia",
+              "dates": "",
+              "descriptions": [
+                
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "awards &amp; recognition",
+      "sections": [
+        {
+          "subsections": [
+            {
+              "title": "Epicurious",
+              "logo": "epicurious.png",
+              "descriptions": [
+                
+              ],
+              "subsections": [
+                {
+                  "title": "Webby Winner",
+                  "dates": "2012",
+                  "subtitle": "<a href=\"https://www.webbyawards.com/winners/2012/mobile-apps/mobile-apps-categories-handheld-devices/lifestyle-handheld-devices/\">Lifestyle Handheld category</a> (People's Voice)"
+                },
+                {
+                  "title": "National Magazine Award Winner x2 for Interactive Tool and Mobile Media",
+                  "dates": "2010 &ndash; 2011",
+                  "subtitle": "<a href=\"https://asme.magazine.org/asme/national-magazine-awards/winners-finalists\">American Society of Magazine Editors</a>"
+                },
+                {
+                  "title": "Featured in the iPhone 4 keynote&nbsp;address",
+                  "subtitle": "<a href=\"media/steve-epi.jpg\">View a photo from the event</a>",
+                  "dates": "2011"
+                },
+                {
+                  "title": "Apple's App Store Hall of Fame",
+                  "dates": "2010"
+                },
+                {
+                  "title": "Featured in an Apple television commercial",
+                  "subtitle": "<a href=\"media/iphone_ad_dine.mp4\">Watch the commercial now</a>",
+                  "dates": "2009"
+                },
+                {
+                  "title": "Gizmodo's Essential iPad Apps",
+                  "dates": "2010"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subsections": [
+            {
+              "title": "Idea Flight",
+              "descriptions": [
+                
+              ],
+              "subsections": [
+                {
+                  "title": "Top 5 Productivity iPad App",
+                  "dates": "2011",
+                  "subtitle": "Apple App Store Rewind"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subsections": [
+            {
+              "title": "Cond&eacute; Nast Magazine Platform",
+              "descriptions": [
+                
+              ],
+              "subsections": [
+                {
+                  "title": "Innovator of the Year",
+                  "dates": "2009",
+                  "subtitle": "Cond&eacute; Nast Publications"
+                },
+                {
+                  "title": "First mobile magazine application approved by the Audit Bureau of Circulation",
+                  "subtitle": "<a href=\"https://web.archive.org/web/20110610152957/http://www.accessabc.com/newsbulletin/askabc_1109.htm\">Read the ABC's press release</a>",
+                  "dates": "2009"
+                },
+                {
+                  "title": "Featured in an Apple television commercial",
+                  "subtitle": "<a href=\"media/ipad_ad_iconic.mp4\">Watch the commercial now</a>",
+                  "dates": "2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subsections": [
+            {
+              "title": "Postcard by Concierge.com",
+              "descriptions": [
+                
+              ],
+              "subsections": [
+                {
+                  "title": "Moble Application Award Winner",
+                  "dates": "2010",
+                  "subtitle": "MIN"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "talks &amp; conferences",
+      "sections": [
+        {
+          "dates": "2016",
+          "subsections": [
+            {
+              "title": "Code Driven Meetup",
+              "subtitle": "API Based Theming of Mobile Apps",
+              "location": "New York, New York",
+              "dates": "",
+              "descriptions": [
+                "  <a href=\"http://www.meetup.com/Code-Driven-NYC/events/234422943/\">Meetup</a><ul>\n        <li><a href=\"http://firstmarkcap.com/insights/api-based-theming-of-mobile-apps/\">Video of the talk</a></li>\n    <li><a href=\"https://github.com/rhaining/decks/tree/master/API%20Based%20Theming%20of%20Mobile%20Apps\">Markdown version of the deck &amp; code</a></li>\n    <li><a href=\"decks/2016-10-10_haining_code_driven.pdf\">PDF version of the deck</a></li>\n  </ul>"
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2012",
+          "subsections": [
+            {
+              "title": "Brooklyn iOS Dev Meetup",
+              "subtitle": "News.me and Core Text",
+              "location": "Brooklyn, New York",
+              "dates": "",
+              "descriptions": [
+                "<a href=\"http://www.meetup.com/The-Brooklyn-iPhone-and-iPad-Developer-Meetup/events/55703582/\">Meetup</a><br/>\n<a href=\"decks/bk_ios_meetup.pdf\">deck</a>"
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2010",
+          "subsections": [
+            {
+              "title": "ConvergeSE",
+              "subtitle": "Epicurious &amp; iOS Development",
+              "location": "Columbia, South Carolina",
+              "dates": "",
+              "descriptions": [
+                "<ul>\n    <li>A deep dive into the technical process and a chat about the general process of creating the Epicurious iOS app.</li>\n<li>Decks: <a href=\"decks/convergese-haining-talk.pdf\">talk</a>, <a href=\"decks/convergese-haining-workshop.pdf\">workshop</a></li>\n    <li><a href=\"http://vimeo.com/16946919\">Video of the talk</a> &ndash; June 26, 2010</li>\n    <li><a href=\"http://blip.tv/file/3722828\">Pre-conference interview</a> with Gene Crawford of Period Three</li>\n  </ul>"
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2009, 2010",
+          "subsections": [
+            {
+              "title": "Online Publishers Association Mobile Day",
+              "subtitle": "Remember when we were just talking about iPhone Apps? and iPhone Apps: The Game Changer",
+              "location": "New York, New York",
+              "dates": "",
+              "descriptions": [
+                
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "interviews",
+      "sections": [
+        {
+          "dates": "2014",
+          "subsections": [
+            {
+              "title": "Natural Health Magazine",
+              "logo": "naturalhealth.png",
+              "descriptions": [
+                "<a href=\"media/natural_health.jpg\">My Meditation: Writing Code</a>"
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2012",
+          "subsections": [
+            {
+              "title": "The Verge",
+              "logo": "theverge.png",
+              "descriptions": [
+                "<a href=\"http://www.theverge.com/2012/8/1/3212876/the-new-digg-video\">The new Digg</a>"
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2012",
+          "subsections": [
+            {
+              "title": "ReadWrite",
+              "logo": "readwrite.png",
+              "subtitle": "",
+              "location": "",
+              "dates": "",
+              "descriptions": [
+                "<a href=\"http://readwrite.com/2012/05/01/other-apps-could-learn-from-newsmes-location-features#feed=/search?keyword=haining/\">Other Apps Could Learn from News.me's Location Features</a>"
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2011",
+          "subsections": [
+            {
+              "title": "Ars Technica",
+              "logo": "arstechnica.png",
+              "subtitle": "",
+              "location": "",
+              "dates": "",
+              "descriptions": [
+                "<a href=\"http://arstechnica.com/apple/news/2011/06/ars-at-wwdc-meet-the-the-developer-behind-conde-nasts-ios-apps.ars\">Meet the the developer behind Cond&eacute; Nast's iOS apps</a>",
+                "Other mentions &amp; quotes on Ars: <ul><li><a href=\"https://arstechnica.com/gadgets/2010/04/top-6-ipad-apps-the-ars-staff-is-dying-to-try-out/\">Top 6 iPad apps the Ars staff is dying to try out</a></li><li><a href=\"https://arstechnica.com/gadgets/2012/01/what-mac-ios-developers-want-from-apple-in-2012/2/\">What Mac, iOS developers want from Apple in 2012</a></li><li><a href=\"https://arstechnica.com/gadgets/2012/03/hands-on-newsmes-iphone-app-filters-your-friends-timelines-for-news/\">Hands-on: News.me’s iPhone app filters your friends’ timelines for news</a></li><li><a href=\"https://arstechnica.com/gadgets/2012/04/can-apple-revamp-the-wwdc-ticket-system-does-it-want-to/\">Can Apple revamp the WWDC ticket system? Does it want to?</a></li><li><a href=\"https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/\">The legacy of NeXT lives on in OS X</a></li><li><a href=\"https://arstechnica.com/gadgets/2013/04/apples-wwdc-2013-tickets-sold-out-in-a-record-two-minutes/\">Apple’s WWDC 2013 tickets sold out in a record two minutes (or less)</a></li><li><a href=\"https://arstechnica.com/information-technology/2013/06/how-digg-plans-to-conquer-the-mobile-sphere-with-its-rss-reader/\">How Digg plans to conquer the mobile sphere with its RSS Reader</a></li><li><a href=\"https://arstechnica.com/gadgets/2014/06/developers-react-to-ios-8-and-its-long-overdue-opening-of-the-platform/\">Developers react to iOS 8 and its long-awaited opening of the platform</a></li><li><a href=\"https://arstechnica.com/gadgets/2015/06/developers-reflect-on-a-year-of-learning-teaching-and-using-apples-swift/\">Developers reflect on a year of learning, teaching, and using Apple’s Swift</a></li></ul>"
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2010",
+          "subsections": [
+            {
+              "title": "Unmatched Style",
+              "logo": "unmatchedstyle.png",
+              "subtitle": "",
+              "location": "",
+              "dates": "",
+              "descriptions": [
+                "<a href=\"http://www.unmatchedstyle.com/podcast/robert-tolar-haining-of-conde-nast-digital-episode-43.php\">Robert Tolar Haining of Cond&eacute; Nast Digital</a>"
+              ]
+            }
+          ]
+        },
+        {
+          "dates": "2009",
+          "subsections": [
+            {
+              "title": "Mobile America",
+              "subtitle": "",
+              "location": "",
+              "dates": "",
+              "descriptions": [
+                "<a href=\"http://vimeo.com/4603114\">An Expos&eacute; on American Cell Phone Culture</a>"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "academic papers &amp; publications",
+      "sections": [
+        {
+          "subsections": [
+            {
+              "title": "Medium-Sized Peer-to-Peer Database System for Secure Data Transfer",
+              "subtitle": "Senior Honors Thesis ",
+              "dates": "2004",
+              "descriptions": [
+                "Developed through an Undergraduate Research Fellowship at Wake Forest University under the mentorship of the illustrious <a href=\"http://www.cs.wfu.edu/~fulp/\">Dr. Errin Fulp</a>",
+                "<a href=\"papers/Haining_Robert-Senior_Honors_Thesis_2004.pdf\">Read the paper</a>",
+                "<a href=\"papers/Haining_Robert-Senior_Honors_Thesis_2004-Code_Appendix.pdf\">Code Appendix</a>"
+              ]
+            }
+          ]
+        },
+        {
+          "subsections": [
+            {
+              "title": "Quick, Pass Me the Optimal Amusement Park Queuing System!",
+              "dates": "2004",
+              "descriptions": [
+                "2004 COMAP Interdisciplinary Contest in Modeling: Meritorious Designation (Top 10%)",
+                "<a href=\"papers/COMAP2004-Abernathy-Haining-Richardson.pdf\">Read the paper</a>"
+              ]
+            }
+          ]
+        },
+        {
+          "subsections": [
+            {
+              "title": "Feds with EDS: Searching for the optimal explosive scanning system",
+              "subtitle": "Published In UMAP Journal 24.2, Summer 2003 edition",
+              "dates": "2003",
+              "descriptions": [
+                "2003 COMAP Interdisciplinary Contest in Modeling: Outstanding Award (Top 5 papers)",
+                "<a href=\"papers/COMAP2003-Haining-Lindeman-Richardson.pdf\">Read the paper</a>",
+                "<a href=\"https://www.comap.com/undergraduate/contests/mcm/contests/2003/results/\">View the results</a>"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "hacks &amp; side projects",
+      "sections": [
+        {
+          "subsections": [
+            {
+              "title": "Peak Warmth",
+              "subtitle": "Hyper-local, hyper-seasonal NYC based warmth notification service",
+              "dates": "2012 &ndash; present",
+              "descriptions": [
+                "As in, we tell you the best time to go outside when it starts getting nice out.",
+                "<a href=\"https://twitter.com/peakwarmth\">Follow us on twitter at @peakwarmth</a>."
+              ]
+            }
+          ]
+        },
+        {
+          "subsections": [
+            {
+              "title": "Venmo Emoji Screensaver",
+              "subtitle": "macOS screensaver that pulls in emoji from real-time transactions posted on Venmo.",
+              "dates": "2017",
+              "descriptions": [
+                "Similar to the classic starfield screensaver, but with emoji."
+              ]
+            }
+          ]
+        },
+        {
+          "subsections": [
+            {
+              "title": "Lobbyists from Last Night ",
+              "dates": "2012",
+              "descriptions": [
+                "Shines a light on parties & other fundraisers that your elected officials are attending.",
+                "Built at <a href=\"http://www.comedyhackday.org/\"/>Comedy Hack Day</a>."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

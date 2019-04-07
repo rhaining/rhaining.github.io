@@ -1,0 +1,198 @@
+/** html **/
+body {
+  background-color: rgb(255,255,255);
+  color: rgb(53,53,53);
+  padding: 10pt;
+  font-family: acumin-pro, Helvetica, sans-serif;
+}
+h1, h2 {
+  font-family: myriad-pro, Charcoal, sans-serif;
+  margin: 0;
+  padding: 2pt 0;
+  line-height: 1em;
+}
+h1 {
+  color: rgb(200,50,50);
+}
+h2 {
+  color: rgba(200,50,50, 0.8);
+}
+ul {
+  margin-top: 0pt;
+  margin-bottom: 0pt;
+}
+
+
+
+
+/** common **/
+#content {
+  text-align: left;
+  max-width: 400pt;
+}
+
+.name_header {
+  color: rgb(100,150,150);
+  font-size: 3em;
+  line-height: 0.9em;
+}
+.subheader {
+  color: rgba(100,150,150, 0.7);
+  font-size: 1.5em;
+  line-height: 1.1em;
+}
+.name_header, .subheader {
+  font-family: myriad-pro, Impact, Charcoal, sans-serif;
+  letter-spacing: 1pt;
+}
+.location {
+  color: rgb(200,200,200);
+}
+
+
+
+
+
+/** Resume / Index.html **/
+#bio_link {
+  margin: 24pt 0pt;
+}
+/* The animation code */
+/* @keyframes pulse {
+  from {opacity: 1.0;}
+  to {opacity: 0.8;}
+} */
+#bio_emoji {
+  margin: 21pt 10pt 24pt 0pt;
+  float: left;
+  font-size: 2em;
+  /* animation-name: pulse;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate; */
+}
+
+.blurb {
+  margin-top: 20pt;
+  margin-bottom: 20pt;
+  line-height: 1.3em;
+}
+.blurb .portrait {
+  float: left;
+  margin-right: 8pt;
+  width: 200pt;
+}
+@media screen and (max-width : 500px) {
+  .blurb .portrait {
+    float: none;
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 10pt;
+  }
+}
+
+.email_address {
+  font-size: 1.1em;
+}
+
+.department {
+  margin-top: 20pt;
+  margin-bottom: 80pt;
+}
+.section_header {
+  margin-bottom: 5pt;
+  font-family: myriad-pro, Charcoal, sans-serif;
+  color: rgb(100,100,100);
+  font-size: 2.5em;
+  font-weight: bold;
+}
+img.logo {
+  max-height: 30pt;
+  max-width: 100%;
+  margin: 0;
+  padding: 4pt 0;
+}
+#logo_cloud {
+  padding: 32pt 16pt 0pt 16pt;
+  text-align: center;
+}
+#logo_cloud img.logo {
+  padding: 6pt 8pt;
+  height: 20pt;
+  vertical-align: middle;
+  /* filter: grayscale(40%) opacity(85%); */
+}
+#logo_cloud img.logo-coxnews {
+  vertical-align: -130%;
+}
+#logo_cloud img.logo:hover {
+  filter: drop-shadow(2px 2px 2px rgba(150,150,150,0.5));
+}
+.section {
+  border-left-style:outset;
+  border-left-color: rgb(200,50,50);
+  padding-left: 10pt;
+  margin-top: 0pt;
+  margin-bottom: 32pt;
+}
+.section_subtitle {
+  color: rgb(100,100,100);
+  /* font-size: 1em; */
+  line-height: 1.5em;
+  font-style: italic;
+}
+.subsection {
+  margin-top: 0pt;
+  margin-bottom: 10pt;
+}
+.section_inset {
+  padding-left: 50pt;
+}
+.dates {
+  font-size: 1.6em;
+  line-height: 1.8em;
+  font-family: myriad-pro, Charcoal, sans-serif;
+  color: rgb(150,150,150);
+}
+.subsection .dates {
+  font-size: 1em;
+  line-height: 1.4em;
+}
+
+.description {
+  padding-top: 4pt;
+  padding-bottom: 4pt;
+  line-height: 1.3em;
+}
+.description li {
+  line-height: 1.3em;
+}
+
+#error {
+  color: rgb(200,50,50);
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+
+
+
+/** Bio **/
+.bio p {
+  line-height: 1.3em;
+}
+#resume_link {
+  font-size: 1.2em;
+}
+.bio .portrait {
+  float: right;
+  margin-left: 8pt;
+  width: 200pt;
+}
+@media screen and (max-width : 500px) {
+  .bio .portrait {
+    float: none;
+    width: 100%;
+    margin: 10pt 0pt;
+  }
+}
