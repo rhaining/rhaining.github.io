@@ -152,6 +152,15 @@
               "dates": "",
               "subsections": [
                 {
+                  "title": "Engineering Management Studio",
+                  "subtitle": "Orbital Studios",
+                  "location": "New York, New York",
+                  "dates": "2018",
+                  "descriptions": [
+                    "<a href=\"https://orbital.nyc/studios/\">orbital.nyc/studios</a>"
+                  ]
+                },
+                {
                   "title": "Intro to Python",
                   "subtitle": "taught by Raymond Hettinger <i>(Python Core Developer)</i>",
                   "location": "New York, New York",
@@ -326,8 +335,22 @@
       ]
     },
     {
-      "title": "talks &amp; conferences",
+      "title": "talks",
       "sections": [
+        {
+          "dates": "2019",
+          "subsections": [
+            {
+              "title": "Orbital Product Manager Studio",
+              "subtitle": "Orbital Studios",
+              "location": "New York, New York",
+              "dates": "",
+              "descriptions": [
+                "Talked to junior Product Managers at <a href=\"https://orbital.nyc/studios/\">Orbital Studios</a> about working with Engineering Managers."
+              ]
+            }
+          ]
+        },
         {
           "dates": "2016",
           "subsections": [
