@@ -8,14 +8,14 @@
       "title": "work",
       "sections": [
         {
-          "dates": "2014 &ndash; present",
+          "dates": "2014 &ndash; 2019",
           "subsections": [
             {
               "title": "PayPal",
               "logo": "paypal.png",
               "subtitle": "worldwide online payments system",
               "location": "New York, New York",
-              "dates": "2015 &ndash; present",
+              "dates": "2015 &ndash; 2019",
               "descriptions": [
                 " Acquired Modest in 2015, which was rebranded as PayPal Commerce, where I worked for over a year, before being transferred to Venmo."
               ],
@@ -25,7 +25,7 @@
                   "logo": "venmo.png",
                   "subtitle": "mobile payment service",
                   "location": "",
-                  "dates": "2016 &ndash; present",
+                  "dates": "2016 &ndash; 2019",
                   "descriptions": [
                     "<b>iOS Engineer</b> for a little over a year before becoming a <b>People Manager</b>, where I have been managing iOS engineers on the App Experience team."
                   ]
@@ -157,7 +157,7 @@
                   "location": "New York, New York",
                   "dates": "2017",
                   "descriptions": [
-                    
+
                   ]
                 },
                 {
@@ -175,12 +175,12 @@
                   "location": "Atlanta, Georgia",
                   "dates": "2005",
                   "descriptions": [
-                    
+
                   ]
                 }
               ],
               "descriptions": [
-                
+
               ]
             }
           ]
@@ -211,7 +211,7 @@
               "location": "Atlanta, Georgia",
               "dates": "",
               "descriptions": [
-                
+
               ]
             }
           ]
@@ -227,7 +227,7 @@
               "title": "Epicurious",
               "logo": "epicurious.png",
               "descriptions": [
-                
+
               ],
               "subsections": [
                 {
@@ -267,7 +267,7 @@
             {
               "title": "Idea Flight",
               "descriptions": [
-                
+
               ],
               "subsections": [
                 {
@@ -284,7 +284,7 @@
             {
               "title": "Cond&eacute; Nast Magazine Platform",
               "descriptions": [
-                
+
               ],
               "subsections": [
                 {
@@ -311,7 +311,7 @@
             {
               "title": "Postcard by Concierge.com",
               "descriptions": [
-                
+
               ],
               "subsections": [
                 {
@@ -379,7 +379,7 @@
               "location": "New York, New York",
               "dates": "",
               "descriptions": [
-                
+
               ]
             }
           ]
@@ -523,6 +523,18 @@
     {
       "title": "hacks &amp; side projects",
       "sections": [
+        {
+          "subsections": [
+            {
+              "title": "Presidential Hopefuls: a screensaver",
+              "subtitle": "macOS screensaver that visualizes recent election polls in a fun & weird way",
+              "dates": "2019 &ndash; present",
+              "descriptions": [
+                "<a href=\"https://kindofawesome.com/screensaver/\">Download today at kindofawesome.com/screensaver/</a>"
+              ]
+            }
+          ]
+        },
         {
           "subsections": [
             {
