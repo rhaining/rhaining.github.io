@@ -8,6 +8,21 @@
       "title": "work",
       "sections": [
         {
+          "dates": "2020 &ndash; 2021",
+          "subsections": [
+            {
+              "title": "Nugget",
+              "logo": "nugget.png",
+              "subtitle": "share and record audio",
+              "location": "New York, New York",
+              "dates": "",
+              "descriptions": [
+                "<b>CTO</b> of a startup, where I was responsible for technical strategy and building an iPhone app, a backend Python API, and a MySQL database. With Nugget, you can record your own audio or share audio from around the Internet."
+              ]
+            }
+          ]
+        },
+        {
           "dates": "2014 &ndash; 2019",
           "subsections": [
             {
@@ -17,7 +32,7 @@
               "location": "New York, New York",
               "dates": "2015 &ndash; 2019",
               "descriptions": [
-                " Acquired Modest in 2015, which was rebranded as PayPal Commerce, where I worked for over a year, before being transferred to Venmo."
+                "PayPal acquired Modest in 2015, which was rebranded as PayPal Commerce, where I worked for over a year, before being transferred to Venmo."
               ],
               "subsections": [
                 {
@@ -166,7 +181,6 @@
                   "location": "New York, New York",
                   "dates": "2017",
                   "descriptions": [
-
                   ]
                 },
                 {
@@ -184,12 +198,10 @@
                   "location": "Atlanta, Georgia",
                   "dates": "2005",
                   "descriptions": [
-
                   ]
                 }
               ],
               "descriptions": [
-
               ]
             }
           ]
@@ -220,7 +232,6 @@
               "location": "Atlanta, Georgia",
               "dates": "",
               "descriptions": [
-
               ]
             }
           ]
@@ -236,7 +247,6 @@
               "title": "Epicurious",
               "logo": "epicurious.png",
               "descriptions": [
-
               ],
               "subsections": [
                 {
@@ -276,7 +286,6 @@
             {
               "title": "Idea Flight",
               "descriptions": [
-
               ],
               "subsections": [
                 {
@@ -293,7 +302,6 @@
             {
               "title": "Cond&eacute; Nast Magazine Platform",
               "descriptions": [
-
               ],
               "subsections": [
                 {
@@ -320,7 +328,6 @@
             {
               "title": "Postcard by Concierge.com",
               "descriptions": [
-
               ],
               "subsections": [
                 {
@@ -402,7 +409,6 @@
               "location": "New York, New York",
               "dates": "",
               "descriptions": [
-
               ]
             }
           ]
