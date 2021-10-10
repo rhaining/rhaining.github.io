@@ -8,6 +8,21 @@
       "title": "work",
       "sections": [
         {
+          "dates": "2021 &ndash; present",
+          "subsections": [
+            {
+              "title": "General Galactic Corporation",
+              "logo": "galactic.png",
+              "subtitle": "Galactic builds products that are native to the new internet.",
+              "location": "New York, New York",
+              "dates": "",
+              "descriptions": [
+                "<b>Engineer</b> at a startup, where I&apos;m building apps for macOS."
+              ]
+            }
+          ]
+        },
+        {
           "dates": "2020 &ndash; 2021",
           "subsections": [
             {
