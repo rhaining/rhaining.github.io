@@ -17,7 +17,7 @@
               "location": "New York, New York",
               "dates": "",
               "descriptions": [
-                "<b>Engineer</b> at a startup, where I&apos;m building apps for macOS."
+                "<b>Engineer</b> at a startup, where I have worked on many projects, such as:\n<ul>\n<li><a href='https://galactic.camera/'>Galactic Camera</a>: a macOS app providing informational layers on top of your existing video conferencing software.</li>\n<li><a href='https://gallery.fancy.art/'>Fancy.art</a>: a macOS screensaver and <a href='https://galactic.io/posts/a-fancy-rejection/'>rejected Apple TV app</a> that <a href='https://galactic.io/posts/fancy-art-bringing-nfts-to-your-living-room/'>shows off your NFT collection and those of your favorite wallets</a>.</li>\n<li><a href='https://galactic.io/posts/the-watcher/'>The Watcher</a>: a macOS app that keeps you up to speed on Ethereum prices, as well as recent transactions of wallets you specify. <a href='https://galactic.io/posts/looking-into-the-watcher/'>Read up on the tech stack.</a></li>\n<li>Stealth project: tba!</li>\n</ul>"
               ]
             }
           ]
