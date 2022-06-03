@@ -54,7 +54,7 @@ ul {
 
 
 /** Resume / Index.html **/
-#bio_link {
+.bio_link {
   margin: 24pt 0pt;
 }
 /* The animation code */
@@ -62,8 +62,14 @@ ul {
   from {opacity: 1.0;}
   to {opacity: 0.8;}
 } */
-#bio_emoji {
-  margin: 21pt 10pt 24pt 0pt;
+.bio_emoji_primary {
+  margin: 19pt 10pt 24pt 0pt;
+}
+.bio_emoji_second {
+  margin: 7pt 10pt 24pt 0pt;
+}
+.bio_emoji {
+  /* margin: 21pt 10pt 24pt 0pt; */
   float: left;
   font-size: 2em;
   /* animation-name: pulse;
