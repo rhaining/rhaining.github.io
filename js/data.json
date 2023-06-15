@@ -2,7 +2,7 @@
   "name": "robert tolar haining",
   "subheader": "people manager &amp; software&nbsp;engineer",
   "location": "brooklyn, new york",
-  "blurb": "<p><b>Who am I?</b> Over a 15 year long career (and going!), I have built software, led projects, and managed people for a wide range of companies in the media, commerce, & financial industries in Atlanta and New York City. From startups to Fortune 500 companies, I have been responsible for developing products from conception to production, as well as working within larger teams. While a classically trained, full-stack engineer, my focus over the past decade has been iOS development. In recent years, I have developed a love for managing people and building teams.</p>",
+  "blurb": "<p><b>Who am I?</b> Over a 19 year long career (and counting!), I have built software, led projects, and managed people for a wide range of companies in the media, commerce, financial, & web3 industries in Atlanta and New York City. From startups to Fortune 500 companies, I have been responsible for developing products from conception to production, as well as working within larger teams. While a classically trained, full-stack engineer, my focus over the past decade has been iOS development. In recent years, I have developed a love for managing people and building teams.</p>",
   "departments": [
     {
       "title": "work",
@@ -14,10 +14,10 @@
               "title": "General Galactic Corporation",
               "logo": "galactic.png",
               "subtitle": "Galactic builds products that are native to the new internet.",
-              "location": "New York, New York",
+              "location": "Brooklyn, New York",
               "dates": "",
               "descriptions": [
-                "<b>Engineer</b> at a startup, where I have worked on many projects, such as:\n<ul>\n<li><a href='https://galactic.camera/'>Galactic Camera</a>: a macOS app providing informational layers on top of your existing video conferencing software.</li>\n<li><a href='https://gallery.fancy.art/'>Fancy.art</a>: a macOS screensaver and <a href='https://galactic.io/posts/a-fancy-rejection/'>rejected Apple TV app</a> that <a href='https://galactic.io/posts/fancy-art-bringing-nfts-to-your-living-room/'>shows off your NFT collection and those of your favorite wallets</a>.</li>\n<li><a href='https://galactic.io/posts/the-watcher/'>The Watcher</a>: a macOS app that keeps you up to speed on Ethereum prices, as well as recent transactions of wallets you specify. <a href='https://galactic.io/posts/looking-into-the-watcher/'>Read up on the tech stack.</a></li>\n<li>Stealth project: tba!</li>\n</ul>"
+                "<b>Engineer</b> at a startup, where I have worked on many projects, such as:\n<ul>\n<li><a href='https://galactic.camera/'>Galactic Camera</a>: a macOS app providing informational layers on top of your existing video conferencing software.</li>\n<li><a href='https://gallery.fancy.art/'>Fancy.art</a>: a macOS screensaver and <a href='https://galactic.io/posts/a-fancy-rejection/'>rejected Apple TV app</a> that <a href='https://galactic.io/posts/fancy-art-bringing-nfts-to-your-living-room/'>shows off your NFT collection and those of your favorite wallets</a>.</li>\n<li><a href='https://galactic.io/posts/the-watcher/'>The Watcher</a>: a macOS app that keeps you up to speed on Ethereum prices, as well as recent transactions of wallets you specify. <a href='https://galactic.io/posts/looking-into-the-watcher/'>Read up on the tech stack.</a></li>\n<li><a href='https://skyteller.xyz/'>Skyteller</a>: a decentralized off-ramp for turning crypto into fiat currency.</li>\n</ul>"
               ]
             }
           ]
@@ -29,7 +29,7 @@
               "title": "Nugget",
               "logo": "nugget.png",
               "subtitle": "share and record audio",
-              "location": "New York, New York",
+              "location": "Brooklyn, New York",
               "dates": "",
               "descriptions": [
                 "<b>CTO</b> of a startup, where I was responsible for technical strategy and building an iPhone app, a backend Python API, and a MySQL database. With Nugget, you can record your own audio or share audio from around the Internet. <a href=\"media/nugget.mov\">Watch a screen capture of Nugget</a>."
